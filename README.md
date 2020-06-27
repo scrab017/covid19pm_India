@@ -1,11 +1,8 @@
 # covid19pm_India
 
-Version 1.0
-Last update: 2019 May 07
 Codes for generating graphs used in 'Robust association between short-term ambient PM2.5 exposure and COVID prevalence in India'
 
-# Structure
-The folder follows the following structure:
+# Tree
 ```bash
 data
     ├─ Admin2_Topo.json
